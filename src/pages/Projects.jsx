@@ -18,11 +18,10 @@ const Projects = () => {
         I've embarked on numerous projects throughout the years, but these are
         the ones I hold closest to my heart. Many of them are open-source, so if
         you come across something that piques your interest, feel free to
-        explore the codebase and contribute your ideas for further enhancements.
-        Your collaboration is highly valued!
+        explore the codebase on My github and contribute your ideas for further enhancements.
       </p>
 
-      <div className='flex flex-wrap my-20 gap-16'>
+      <div className='flex flex-wrap my-14 gap-16'>
         {projects.map((project) => (
           <div className='lg:w-[400px] w-full' key={project.name}>
             <div className='block-container w-12 h-12'>

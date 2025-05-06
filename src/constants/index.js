@@ -196,6 +196,13 @@ export const socialLinks = [
 ];
 
 export const projects = [
+       {
+        iconUrl: pricewise,
+        theme: 'btn-back-red',
+        name: 'Netflix Clone',
+        description: 'Built a MERN Stack Netflix clone, enabling users to browse through movies and TV shows with a user-friendly interface.',
+         link: 'https://mern-stack-netflix-clone-1.onrender.com/',
+    },
     {
         iconUrl: summiz,
         theme: 'btn-back-red',
@@ -229,7 +236,7 @@ export const projects = [
     //     theme: 'btn-back-red',
     //     name: 'Amazon Price Tracker',
     //     description: 'Developed a web application that tracks and notifies users of price changes for products on Amazon, helping users find the best deals.',
-    //     link: 'https://github.com/adrianhajdin/pricewise',
+    //     link: 'https://mern-stack-netflix-clone-1.onrender.com/',
     // },
     // {
     //     iconUrl: threads,
