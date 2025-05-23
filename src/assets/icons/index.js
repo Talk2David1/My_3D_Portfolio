@@ -28,8 +28,10 @@ import soundon from './soundon.png'
 import soundoff from './soundoff.png'
 import figma from './figma.svg'
 import whatsapp from './whatsapp.svg'
+import php from './php.svg'
 
 export {
+    php,
     whatsapp,
     css,
     express,

@@ -25,7 +25,8 @@ import {
     threads,
     typescript,
     figma,
-    whatsapp
+    whatsapp,
+    php
 } from "../assets/icons";
 
 export const skills = [
@@ -113,6 +114,11 @@ export const skills = [
         imageUrl: figma,
         name: "Figma",
         type: "Design", 
+    },
+        {
+        imageUrl: php,
+        name: "PHP",
+        type: "Full Stack", 
     },
 ];
 
@@ -221,7 +227,7 @@ export const projects = [
         iconUrl: snapgram,
         theme: 'btn-back-pink',
         name: 'Loopstudios',
-        description: 'Landing page for Loop Studios, a leader in interactive VR experiences that blends cutting-edge technology with engaging interactive elements.',
+        description: 'Landing page for a leader in interactive VR experiences that blends cutting-edge technology with engaging interactive elements.',
         link: 'https://responsive-loopstudio.netlify.app/',
     },
     {
@@ -230,6 +236,13 @@ export const projects = [
         name: 'Portfolio Website',
         description: 'Built a Portfolio website for a Data Analyst which led to more exposure and a 30% boost in career prospect and being visible to prospective employers',
         link: 'https://talk2david1.github.io/David_Portfolio_Website/',
+    },
+      {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'Full Stack Vendor Site',
+        description: 'Developed Vendrly using PHP with a team for Vendors to find events and for Event Organizers/Hosts to find the Vendors and service providers that they need to put together.',
+        link: 'https://www.vendrly.com/',
     }
     // {
     //     iconUrl: pricewise,
