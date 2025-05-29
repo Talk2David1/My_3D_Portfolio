@@ -210,6 +210,13 @@ export const projects = [
          link: 'https://mern-stack-netflix-clone-1.onrender.com/',
     },
     {
+        iconUrl: car,
+        theme: 'btn-back-blue',
+        name: 'Stay Safe Eyewear',
+        description: 'Built with a team of 5 for a leading provider of premium safety eyewear designed to protect and enhance vision in hazardous environments',
+        link: '//https://staysafeeyewear.dsbsolutions.co/',
+    },
+    {
         iconUrl: summiz,
         theme: 'btn-back-red',
         name: 'Mobile Fitness App',
