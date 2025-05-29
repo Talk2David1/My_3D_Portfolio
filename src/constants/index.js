@@ -214,7 +214,7 @@ export const projects = [
         theme: 'btn-back-blue',
         name: 'Stay Safe Eyewear',
         description: 'Built with a team of 5 for a leading provider of premium safety eyewear designed to protect and enhance vision in hazardous environments',
-        link: '//https://staysafeeyewear.dsbsolutions.co/',
+        link: 'https://staysafeeyewear.dsbsolutions.co/',
     },
     {
         iconUrl: summiz,
