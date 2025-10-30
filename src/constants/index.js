@@ -217,6 +217,13 @@ export const projects = [
         link: 'https://staysafeeyewear.dsbsolutions.co/',
     },
     {
+        iconUrl: snapgram,
+        theme: 'btn-back-blue',
+        name: 'Chat App',
+        description: 'Full-stack real-time chat application with authentication and group messaging.',
+        link: 'https://fullstack-chat-app-fp9p.onrender.com/login',
+    },
+    {
         iconUrl: summiz,
         theme: 'btn-back-red',
         name: 'Mobile Fitness App',
@@ -243,7 +250,7 @@ export const projects = [
         name: 'Portfolio Website',
         description: 'Built a Portfolio website for a Data Analyst which led to more exposure and a 30% boost in career prospect and being visible to prospective employers',
         link: 'https://talk2david1.github.io/David_Portfolio_Website/',
-    },
+    },   
       {
         iconUrl: threads,
         theme: 'btn-back-green',
