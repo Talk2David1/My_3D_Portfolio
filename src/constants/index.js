@@ -257,6 +257,13 @@ export const projects = [
         name: 'Full Stack Vendor Site',
         description: 'Developed Vendrly using PHP with a team for Vendors to find events and for Event Organizers/Hosts to find the Vendors and service providers that they need to put together.',
         link: 'https://www.vendrly.com/',
+    },
+    {
+        iconUrl: summiz,
+        theme: 'btn-back-orange',
+        name: 'Lucky Udu Academy',
+        description: 'Developed an educational platform offering mentorship, online courses, and eBooks to help content creators and learners achieve their goals.',
+        link: 'https://lucky-udu.vercel.app/',
     }
     // {
     //     iconUrl: pricewise,
