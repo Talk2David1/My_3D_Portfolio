@@ -10,7 +10,7 @@ const HomeInfo = ({ currentStage }) => {
         <span className='font-semibold mx-2 text-white'>David Ezekiel</span>
         👋
         <br />
-        A Software Engineer from Nigeria 🇳🇬
+        A Software Engineer from Nigeria
       </h1>
     );
 
