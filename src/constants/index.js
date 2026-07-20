@@ -210,11 +210,18 @@ export const projects = [
          link: 'https://mern-stack-netflix-clone-1.onrender.com/',
     },
     {
+        iconUrl: summiz,
+        theme: 'btn-back-orange',
+        name: 'Lucky Udu Academy',
+        description: 'Developed an educational platform offering mentorship, online courses, and eBooks to help content creators and learners achieve their goals.',
+        link: 'https://lucky-udu.vercel.app/',
+    },
+    {
         iconUrl: car,
         theme: 'btn-back-blue',
-        name: 'Stay Safe Eyewear',
-        description: 'Built with a team of 5 for a leading provider of premium safety eyewear designed to protect and enhance vision in hazardous environments',
-        link: 'https://staysafeeyewear.dsbsolutions.co/',
+        name: 'Wedding Manager',
+        description: 'A platform for managing your wedding ceremony, from guest coordination to event planning in one place.',
+        link: 'https://mywedding-theta-steel.vercel.app/',
     },
     {
         iconUrl: snapgram,
@@ -257,14 +264,8 @@ export const projects = [
         name: 'Full Stack Vendor Site',
         description: 'Developed Vendrly using PHP with a team for Vendors to find events and for Event Organizers/Hosts to find the Vendors and service providers that they need to put together.',
         link: 'https://www.vendrly.com/',
-    },
-    {
-        iconUrl: summiz,
-        theme: 'btn-back-orange',
-        name: 'Lucky Udu Academy',
-        description: 'Developed an educational platform offering mentorship, online courses, and eBooks to help content creators and learners achieve their goals.',
-        link: 'https://lucky-udu.vercel.app/',
     }
+   
     // {
     //     iconUrl: pricewise,
     //     theme: 'btn-back-red',
