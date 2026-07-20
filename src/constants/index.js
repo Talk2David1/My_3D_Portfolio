@@ -210,18 +210,25 @@ export const projects = [
         link: 'https://lucky-udu.vercel.app/',
     },
     {
-        iconUrl: pricewise,
-        theme: 'btn-back-red',
-        name: 'Netflix Clone',
-        description: 'Built a MERN Stack Netflix clone, enabling users to browse through movies and TV shows with a user-friendly interface.',
-         link: 'https://mern-stack-netflix-clone-1.onrender.com/',
-    },
-    {
         iconUrl: car,
         theme: 'btn-back-blue',
         name: 'Wedding Manager',
         description: 'A platform for managing your wedding ceremony, from guest coordination to event planning in one place.',
         link: 'https://mywedding-theta-steel.vercel.app/',
+    },
+    {
+        iconUrl: threads,
+        theme: 'btn-back-green',
+        name: 'Full Stack Vendor Site',
+        description: 'Developed Vendrly using PHP with a team for Vendors to find events and for Event Organizers/Hosts to find the Vendors and service providers that they need to put together.',
+        link: 'https://www.vendrly.com/',
+    },
+    {
+        iconUrl: pricewise,
+        theme: 'btn-back-red',
+        name: 'Netflix Clone',
+        description: 'Built a MERN Stack Netflix clone, enabling users to browse through movies and TV shows with a user-friendly interface.',
+         link: 'https://mern-stack-netflix-clone-1.onrender.com/',
     },
     {
         iconUrl: snapgram,
@@ -257,14 +264,7 @@ export const projects = [
         name: 'Portfolio Website',
         description: 'Built a Portfolio website for a Data Analyst which led to more exposure and a 30% boost in career prospect and being visible to prospective employers',
         link: 'https://talk2david1.github.io/David_Portfolio_Website/',
-    },   
-      {
-        iconUrl: threads,
-        theme: 'btn-back-green',
-        name: 'Full Stack Vendor Site',
-        description: 'Developed Vendrly using PHP with a team for Vendors to find events and for Event Organizers/Hosts to find the Vendors and service providers that they need to put together.',
-        link: 'https://www.vendrly.com/',
-    }
+    },
    
     // {
     //     iconUrl: pricewise,
