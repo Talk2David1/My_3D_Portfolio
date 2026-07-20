@@ -202,19 +202,19 @@ export const socialLinks = [
 ];
 
 export const projects = [
-       {
-        iconUrl: pricewise,
-        theme: 'btn-back-red',
-        name: 'Netflix Clone',
-        description: 'Built a MERN Stack Netflix clone, enabling users to browse through movies and TV shows with a user-friendly interface.',
-         link: 'https://mern-stack-netflix-clone-1.onrender.com/',
-    },
     {
         iconUrl: summiz,
         theme: 'btn-back-orange',
         name: 'Lucky Udu Academy',
         description: 'Developed an educational platform offering mentorship, online courses, and eBooks to help content creators and learners achieve their goals.',
         link: 'https://lucky-udu.vercel.app/',
+    },
+    {
+        iconUrl: pricewise,
+        theme: 'btn-back-red',
+        name: 'Netflix Clone',
+        description: 'Built a MERN Stack Netflix clone, enabling users to browse through movies and TV shows with a user-friendly interface.',
+         link: 'https://mern-stack-netflix-clone-1.onrender.com/',
     },
     {
         iconUrl: car,
